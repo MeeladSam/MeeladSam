@@ -1,6 +1,6 @@
 # Hi, I'm Melad 👋
 
-I'm a Computer Engineering student who enjoys learning programming and building small projects.
+I'm a Computer Engineering student .
 
 ## 💻 What I'm learning
 - C++
@@ -8,7 +8,7 @@ I'm a Computer Engineering student who enjoys learning programming and building 
 - Python
 - HTML & CSS
 - Arduino
-
+-Other omputer things
 
 🔹 My Portfolio  
 https://meeladsam.github.io/My-First-portifolio/

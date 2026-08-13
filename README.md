@@ -9,8 +9,8 @@ I'm a Computer Engineering student .
 - dart
 - HTML & CSS
 - Arduino
-- Flutter_soon
--Other computer things
+- Flutter--->soon
+- Other computer things
 
 🔹 My Portfolio  
 [https://meeladsam.github.io/My-First-portifolio/](https://lnkd.in/dZ4-UV8W)

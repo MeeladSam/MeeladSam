@@ -9,7 +9,7 @@ I'm a Computer Engineering student .
 - dart
 - HTML & CSS
 - Arduino
-- Flutter--->soon
+- Flutter___>soon
 -Other computer things
 
 🔹 My Portfolio  
